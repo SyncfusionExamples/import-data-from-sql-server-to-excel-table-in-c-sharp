@@ -1,4 +1,4 @@
-# Import Data from SQL Server to Excel in C#
+# Import Data from SQL Server to Excel table in C#
 
 This repository contains Syncfusion Excel library examples that illustrates,
 
